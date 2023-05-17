@@ -1,4 +1,4 @@
-package testProject
+package hello
 
 import "fmt"
 
